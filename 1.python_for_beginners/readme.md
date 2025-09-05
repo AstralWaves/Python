@@ -26,14 +26,14 @@ You’ll learn Python step by step – from basics to OOP, GUI apps, and real pr
 - [ ] Variables ❎  
 - [ ] Type Casting 💱  
 - [ ] User Input ⌨️  
-- [ ] ⭐ Mad Libs Game 📖  
+- [ ] Mad Libs Game 📖  
 - [ ] Arithmetic & Math 📐  
 - [ ] If Statements 🤔  
 
 ## 🔹 Mini Projects
-- [ ] ⭐ Calculator Program 🧮  
-- [ ] ⭐ Weight Conversion Program 🏋️  
-- [ ] ⭐ Temperature Conversion Program 🌡️  
+- [ ] Calculator Program 🧮  
+- [ ] Weight Conversion Program 🏋️  
+- [ ] Temperature Conversion Program 🌡️  
 
 ## 🔹 Logic & Strings
 - [ ] Logical Operators 🌦️  
@@ -44,24 +44,24 @@ You’ll learn Python step by step – from basics to OOP, GUI apps, and real pr
 
 ## 🔹 Loops & Programs
 - [ ] While Loops ♾️  
-- [ ] ⭐ Compound Interest Calculator 💵  
+- [ ] Compound Interest Calculator 💵  
 - [ ] For Loops 🔁  
-- [ ] ⭐ Countdown Timer Program ⌛  
+- [ ] Countdown Timer Program ⌛  
 - [ ] Nested Loops ➿  
 
 ## 🔹 Collections
 - [ ] Lists, Sets, and Tuples 🍎  
-- [ ] ⭐ Shopping Cart Program 🛒  
+- [ ] Shopping Cart Program 🛒  
 - [ ] 2D Collections ⬜  
-- [ ] ⭐ Quiz Game 💯  
+- [ ] Quiz Game 💯  
 - [ ] Dictionaries 📙  
-- [ ] ⭐ Concession Stand Program 🍿  
+- [ ] Concession Stand Program 🍿  
 
 ## 🔹 Randomness & Games
 - [ ] Random Numbers 🎲  
-- [ ] ⭐ Number Guessing Game 🔢  
-- [ ] ⭐ Rock, Paper, Scissors Game 🗿  
-- [ ] ⭐ Dice Roller Program ⚂  
+- [ ] Number Guessing Game 🔢  
+- [ ] Rock, Paper, Scissors Game 🗿  
+- [ ] Dice Roller Program ⚂  
 
 ## 🔹 Functions & Arguments
 - [ ] Functions 📞  
@@ -77,10 +77,10 @@ You’ll learn Python step by step – from basics to OOP, GUI apps, and real pr
 - [ ] if __name__ == '__main__' 📥  
 
 ## 🔹 Projects
-- [ ] ⭐ Banking Program 💰  
-- [ ] ⭐ Slot Machine 🎰  
-- [ ] ⭐ Encryption Program 🔐  
-- [ ] ⭐ Hangman Game 🕺  
+- [ ] Banking Program 💰  
+- [ ] Slot Machine 🎰  
+- [ ] Encryption Program 🔐  
+- [ ] Hangman Game 🕺  
 
 ## 🔹 Object-Oriented Programming
 - [ ] Python OOP 🚗  
@@ -102,7 +102,7 @@ You’ll learn Python step by step – from basics to OOP, GUI apps, and real pr
 - [ ] Writing Files ✍  
 - [ ] Reading Files 🔍  
 - [ ] Dates & Times 📅  
-- [ ] ⭐ Alarm Clock ⏰  
+- [ ] Alarm Clock ⏰  
 - [ ] Multithreading 🧵  
 - [ ] Request API Data ↩️  
 
@@ -116,6 +116,6 @@ You’ll learn Python step by step – from basics to OOP, GUI apps, and real pr
 - [ ] PyQt5 Radio Buttons 🔘  
 - [ ] PyQt5 Line Edits 💬  
 - [ ] PyQt5 CSS Styles 🎨  
-- [ ] ⭐ Digital Clock Program 🕒  
-- [ ] ⭐ Stopwatch Program ⏱  
-- [ ] ⭐ Weather API App ☀️  
+- [ ] Digital Clock Program 🕒  
+- [ ] Stopwatch Program ⏱  
+- [ ] Weather API App ☀️  
